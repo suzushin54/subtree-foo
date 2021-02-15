@@ -1,1 +1,3 @@
 # subtree-foo
+
+some text
