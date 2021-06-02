@@ -2,3 +2,4 @@
 
 - second commit in foo
 - third commit in foo
+- fourth commit in foo
