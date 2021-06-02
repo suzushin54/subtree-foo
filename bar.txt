@@ -1,4 +1,4 @@
-# subtree-bar
+# subtree-bar for subtree-foo
 
 - second commit in bar
 - third commit in bar
