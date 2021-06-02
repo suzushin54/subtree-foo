@@ -1,1 +1,3 @@
 # subtree-foo
+
+- second commit in foo
