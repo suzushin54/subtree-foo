@@ -1,0 +1,3 @@
+# subtree-bar
+
+- second commit in bar
