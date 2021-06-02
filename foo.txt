@@ -1,3 +1,4 @@
 # subtree-foo
 
 - second commit in foo
+- third commit in foo
